@@ -1,8 +1,8 @@
-/I do python
+I do python
 
---> Contact me with [/email](mailto:dctachasing@gmail.com)<br>
---> Contact me with my [/unixcli](git.cmdcustom.repl.co/unix-cli)<br>
---> Get info about me with my [/pipmodule](data:text/html,<h1>pip install cmdcustomgitreadme</h1>)<br>
+--> Contact me with my [/email](mailto:dctachasing@gmail.com)<br>
+--> Contact me with my [/unixcli](git.cmdcustom.repl.co/unix-cli-dl)<br>
+--> Contact me with my [/wincli](git.cmdcustom.repl.co/win-cli-dl)
 
 <!---
 cmdcustom/cmdcustom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
