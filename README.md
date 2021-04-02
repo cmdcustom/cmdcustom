@@ -1,4 +1,4 @@
-I do python
+#I do python
 
 --> Contact me with my [/email](mailto:dctachasing@gmail.com)<br>
 --> Contact me with my [/unixcli](git.cmdcustom.repl.co/unix-cli-dl)<br>
