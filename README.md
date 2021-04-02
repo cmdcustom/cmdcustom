@@ -4,7 +4,6 @@
 --> Contact me with my [/unixcli](https://git.cmdcustom.repl.co/unix-cli-dl)<br>
 --> Contact me with my [/wincli](https://git.cmdcustom.repl.co/win-cli-dl)
 > **Note:** some text
-> 
 <!---
 cmdcustom/cmdcustom is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
